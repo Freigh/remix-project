@@ -6,12 +6,12 @@
   "types": "src/index.d.ts",
   "contributors": [
     {
-      "name": "Yann Levreau",
-      "email": "yann@ethdev.com"
+      "name": "Craig Washington George",
+      "email": "craigwbg78@gmail.com"
     },
     {
-      "name": "Liana Husikyan",
-      "email": "liana@ethdev.com"
+      "name": "Craig Washington George",
+      "email": "craigwbg78@gmail.com"
     }
   ],
   "dependencies": {
@@ -48,14 +48,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethereum/remix-project.git"
+    "url": "git+https://github.com/bcscan/remix-project.git"
   },
   "author": "Remix Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ethereum/remix-project/issues"
+    "url": "https://github.com/bcscan/remix-project/issues"
   },
-  "homepage": "https://github.com/ethereum/remix-project/tree/master/libs/remix-solidity#readme",
+  "homepage": "https://github.com/bcscan/remix-project/tree/master/libs/remix-solidity#readme",
   "typings": "src/index.d.ts",
-  "gitHead": "8edf05261b079599b71f0fe2f890b005e2d8a6c3"
+  "gitHead": "0xac90d1742bc55f896b6fd1f2e1a1381d0c1c3adc"
 }
